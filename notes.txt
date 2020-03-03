@@ -1,0 +1,52 @@
+< deploy - cli >
+- find a way to deploy virtual browser terminal
+
+< pokemon edit >
+
+- applying an object into an fn(Param)
+- would you capitalize the parameter name?
+
+// apply faint to pokemon with 0 hp
+// still have pokemon > switch pokemon > your turn
+// 
+
+/* 
+- options
+    - data base for pokemon
+    - apply to database??
+*/
+
+/* 
+- when you complete battle
+    - narrator gives you a farewell
+    - you walk, trip, faint...game over
+*/
+/*
+- Narrator
+    - Well okay [NAME], you are not a gutterrat after all. You got spirit/spunk/moxy kid.
+    - But you are now on the Most Wanted list for Treason to Faint Pokemons...It's a felony.
+    - Skiddadle now before I make you...Now go! Go I say! Todaloo! Scoundrel.
+*/
+/* 
+- Battle
+    - you : [Name] pkmn
+        - cur pkmn hp:0 (faint)
+    - other : [Name]/wild pkmn
+        - cur pkmn hp:0 (faint)
+- win
+    - you vs wild
+        - you defeated [a wild pokemon]
+    - you vs rival
+        - you defeated [trainer Red]
+- loss
+    - wild vs you
+        - [a wild pokemon] got bored... and walks away
+    - rival vs you
+        - [trainer Red] got bored... and walks away
+*/
+
+/*
+- fainted
+- you defeated [player's/a wild] [pkmn]
+-
+*/
